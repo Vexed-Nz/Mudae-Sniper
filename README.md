@@ -1,6 +1,8 @@
 # Mudae-Sniper
 - Auto Claim Charters with Kakera
 
+<img src="./mudaedesc.png" width="300">
+
 How does it work:
 The tool basically captures characters over the kakera value you set in the config by reacting to it.
 It also works with wishes aswell.
