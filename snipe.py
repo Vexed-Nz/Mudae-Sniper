@@ -4,9 +4,9 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 
 # Config
-email = ""
-password = ""
-channel = ""
+email = "" # Discord Email
+password = "" # Discord Password
+channel = "" # Channel Link in Discord
 kakera = 0 # Kakera above the number placed are claimed
 driver_path = r"\chromedriver_win32\chromedriver.exe"
 chromium_path = r"\chromium\chrome.exe"
